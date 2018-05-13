@@ -55,18 +55,13 @@ pre code {
   }
 }
 
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-.ml12 {
+.ml3 {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  font-size: 1.8em;
-  text-transform: uppercase;
-  letter-spacing: 0.5em;
-}
-
-.ml12 .letter {
-  display: inline-block;
-  line-height: 1em;
+  font-size: 3.5em;
 }
 
 
