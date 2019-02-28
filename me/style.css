@@ -832,3 +832,33 @@ color: rgb(34, 42, 53);
 .logo {
   margin-left: 108px;
 }
+
+
+.logo > a > .fas {
+  padding-right: 20px;
+  font-size: 30px;
+  color: rgb(34, 42, 53);
+}
+
+.logo > a > .fab {
+  padding-right: 20px;
+  font-size: 30px;
+color: rgb(34, 42, 53);
+}
+
+.logo {
+  margin-left: 108px;
+}
+
+
+.logo > div > .fas {
+  padding-right: 20px;
+  font-size: 30px;
+  color: rgb(34, 42, 53);
+}
+
+.logo > div > .fab {
+  padding-right: 20px;
+  font-size: 30px;
+color: rgb(34, 42, 53);
+}
