@@ -36,6 +36,9 @@ h2 {
   background-size: 100%;
   position: absolute;
   width: 100%;
+  position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 div {
